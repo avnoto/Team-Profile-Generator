@@ -34,7 +34,7 @@ node app
 
 ## Usage
 
-<img src="Assets\teamgengif.gif" alt="GIF of using the application"/>
+<img src="Assets\teamgengif1.gif" alt="GIF of using the application"/>
 
 [Inquirer npm package](https://github.com/SBoudrias/Inquirer.js/) is used to prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
